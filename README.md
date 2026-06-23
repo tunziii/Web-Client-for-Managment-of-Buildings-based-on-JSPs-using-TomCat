@@ -10,6 +10,6 @@ To Start the Building Manager:
 -> In terminal navigate to ...\apache-tomcat-11.0.22\bin
 -> Type "startup.bat run"
 OR
--> Navite to ...\apache-tomcat-11.0.22\bin and run "startup.bat"
+-> Navigate to ...\apache-tomcat-11.0.22\bin and run "startup.bat"
 
 -> The HTML-file can be called within the browser using the URL: http://localhost:8080/Building/StartingPage.jsp
